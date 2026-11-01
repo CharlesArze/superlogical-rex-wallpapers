@@ -17,4 +17,4 @@ Some wallpapers I've made inspired by the launch of **Rex**. All credit goes to 
 <tr><td><a href="macOS%20Wallpaper/superlogical.png"><img src="previews/macos/superlogical.jpg" width="380"></a></td><td><a href="macOS%20Wallpaper/white-s.png"><img src="previews/macos/white-s.jpg" width="380"></a></td></tr>
 </table>
 
-Free to use as your wallpaper. Made by Superlogical.
+
