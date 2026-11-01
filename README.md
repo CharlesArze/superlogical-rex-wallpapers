@@ -1,5 +1,5 @@
 # Rex by Superlogical — Wallpapers Collection
-Some wallpapers I've made inspired by the launch of **Rex**. All credit goes to the talented artists and creators at **Superlogical** who made this amazing piece of software 🙏
+Some wallpapers I've made inspired by the launch of **Rex**. All credit goes to the talented artists and creators at **Superlogical** who made this amazing piece of software.
 
 ## iOS Wallpaper
 
